@@ -1,0 +1,11 @@
+#h1{
+    position: sticky;
+    position: -webkit-sticky;
+    font-style: oblique;
+	font-size: 50px;
+    background-color: maroon;
+    text-align: center;
+}
+#i1{
+    transform: translate(450px,50px);
+}
